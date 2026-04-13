@@ -15,7 +15,7 @@
 
 ## What are Large Language Models (LLMs)?
 
-**Large Language Models (LLMs)** wo AI models hain jo text ko samajh sakte hain aur generate kar sakte hain. Ye models **billions of parameters** ke saath train kiye jaate hain.
+**Large Language Models (LLMs)** are AI models that can understand and generate human language. These models are trained with **billions of parameters** on massive amounts of text data.
 
 ### Simple Definition:
 
@@ -51,7 +51,7 @@ mindmap
 
 ## How LLMs Work
 
-LLMs kaam kaise karte hain? Let's break it down step by step.
+How do LLMs actually work? Let's break it down step by step.
 
 ### Training Process:
 
@@ -69,7 +69,7 @@ graph TD
     style G fill:#e8f5e9,stroke:#2e7d32
 ```
 
-### How LLMs Predict Next Word:
+### How LLMs Predict the Next Word:
 
 ```mermaid
 sequenceDiagram
@@ -121,7 +121,7 @@ graph TB
 
 ## Understanding Tokens
 
-**Tokens** wo basic units hain jisme text ko divide kiya jaata hai. Tokens words, sub-words, ya characters ho sakte hain.
+**Tokens** are the basic units into which text is divided. Tokens can be words, sub-words, or characters.
 
 ### What is a Token?
 
@@ -147,7 +147,7 @@ graph LR
 | "Hello World" | ["Hello", " World"] | 2 |
 | "ChatGPT" | ["Chat", "GPT"] | 2 |
 | "artificial intelligence" | ["art", "ificial", " intelligence"] | 3 |
-| "AI है बहुत अच्छा" | ["AI", " है", " बहुत", " अच्छा"] | 4 |
+| "AI is very good" | ["AI", " is", " very", " good"] | 4 |
 
 ### How Tokenization Works:
 
@@ -235,7 +235,7 @@ Examples:
 
 ## Context Windows Explained
 
-**Context Window** wo maximum amount hai information (tokens) jitna ek LLM ek time mein process kar sakta hai.
+**Context Window** is the maximum amount of information (in tokens) that an LLM can process at one time.
 
 ### What is Context Window?
 
@@ -380,7 +380,7 @@ graph LR
 
 ## Parameters in AI Models
 
-**Parameters** wo internal variables hain jo model training ke dauran learn karta hai.
+**Parameters** are the internal variables that the model learns during training.
 
 ### What are Parameters?
 
@@ -603,7 +603,7 @@ graph TD
 
 ## Limitations of LLMs
 
-LLMs powerful hain, but unki limitations bhi hain:
+LLMs are powerful, but they also have limitations:
 
 ```mermaid
 mindmap

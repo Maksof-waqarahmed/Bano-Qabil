@@ -2,7 +2,7 @@
 
 ## Table of Contents
 1. [What is Artificial Intelligence?](#what-is-artificial-intelligence)
-2. [PATH to AI: Understanding the Journey](#path-to-ai)
+2. [PATH to AI: Understanding the Journey](#path-to-ai-understanding-the-journey)
 3. [Computer Science (CS)](#computer-science-cs)
 4. [Machine Learning (ML)](#machine-learning-ml)
 5. [Deep Learning (DL)](#deep-learning-dl)
@@ -37,7 +37,7 @@ Think of **Siri** or **Google Assistant**:
 
 ## PATH to AI: Understanding the Journey
 
-AI ka journey samajhne ke liye, humein ek structured path follow karni hogi. Ye path Computer Science se shuru hoke Generative AI tak jaati hai.
+To understand the journey of AI, we need to follow a structured path. This path starts from Computer Science and goes all the way to Generative AI.
 
 ```mermaid
 graph TD
@@ -51,7 +51,7 @@ graph TD
     style D fill:#e8f5e9,stroke:#1b5e20,stroke-width:3px
 ```
 
-### Visual Representation - AI ke Layers:
+### Visual Representation - The AI Layers:
 
 ```mermaid
 graph TB
@@ -76,15 +76,15 @@ graph TB
 
 ## Computer Science (CS)
 
-**Computer Science** AI ka foundation hai. Ye base layer hai jahan se sab kuch start hota hai.
+**Computer Science** is the foundation of AI. This is the base layer where everything starts.
 
 ### What is Computer Science?
 
-Computer Science ek field hai jo computers aur computational systems ka study karta hai:
-- **Programming**: Code likhna (Python, JavaScript, etc.)
+Computer Science is a field that studies computers and computational systems:
+- **Programming**: Writing code (Python, JavaScript, etc.)
 - **Algorithms**: Step-by-step problem-solving methods
-- **Data Structures**: Data ko efficiently organize karna
-- **Logic Building**: Logical thinking aur problem solving
+- **Data Structures**: Organizing data efficiently
+- **Logic Building**: Logical thinking and problem solving
 
 ### Why CS is Important for AI?
 
@@ -124,13 +124,13 @@ else:
     print("It's cold! Wear warm clothes")
 ```
 
-**Ye basic programming logic AI ka foundation hai!**
+**This basic programming logic is the foundation of AI!**
 
 ---
 
 ## Machine Learning (ML)
 
-**Machine Learning** ek subset hai AI ka jahan computers **data se seekhte hain** bina explicitly programmed hue.
+**Machine Learning** is a subset of AI where computers **learn from data** without being explicitly programmed.
 
 ### Traditional Programming vs Machine Learning
 
@@ -240,11 +240,11 @@ prediction = model.predict([new_email_features])
 
 ## Deep Learning (DL)
 
-**Deep Learning** Machine Learning ka ek advanced subset hai jo **artificial neural networks** use karta hai.
+**Deep Learning** is an advanced subset of Machine Learning that uses **artificial neural networks** inspired by the human brain.
 
 ### What is Deep Learning?
 
-Deep Learning ek technique hai jo human brain ki tarah kaam karta hai using **artificial neural networks**.
+Deep Learning is a technique that works like the human brain using **artificial neural networks**.
 
 ```mermaid
 graph TB
@@ -365,11 +365,11 @@ graph TD
 
 ## Generative AI (Gen AI)
 
-**Generative AI** sabse latest aur powerful form hai AI ka jo **new content create** kar sakta hai.
+**Generative AI** is the most advanced form of AI that can **create new, original content**.
 
 ### What is Generative AI?
 
-Generative AI ek type of AI hai jo **new, original content generate** karta hai:
+Generative AI is a type of AI that **generates new, original content**:
 - Text (ChatGPT, Gemini)
 - Images (DALL-E, Midjourney)
 - Code (GitHub Copilot)
@@ -459,7 +459,7 @@ sequenceDiagram
 
 ## AI Evolution Timeline
 
-AI kaise develop hua hai? Let's see the journey:
+How has AI developed over the years? Let's see the journey:
 
 ```mermaid
 timeline
@@ -619,11 +619,11 @@ graph TB
 
 ## Key Takeaways
 
-1. **AI ka foundation Computer Science hai**
-2. **Machine Learning data se seekhta hai**
-3. **Deep Learning neural networks use karta hai**
-4. **Generative AI new content create karta hai**
-5. **AI humari daily life ka important part hai**
+1. **AI's foundation is Computer Science**
+2. **Machine Learning learns from data**
+3. **Deep Learning uses neural networks**
+4. **Generative AI creates new content**
+5. **AI is an important part of our daily life**
 
 ---
 
